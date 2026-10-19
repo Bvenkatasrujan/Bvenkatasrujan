@@ -1,15 +1,232 @@
+ <!--
+  GITHUB PROFILE README
+  Repository: bvenkatasrujan/bvenkatasrujan
+-->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/venkata-srujan-bellamkonda-b009ba327) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:venkatasrujanb@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bvenkatasrujan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bvenkatasrujan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bvenkatasrujan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0891B2&height=220&section=header&text=VENKATA%20SRUJAN&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Building%20Ideas%20Into%20Intelligent%20Solutions&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Animated profile header"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=800&height=55&lines=B.Tech+CSE-AI+Student;Aspiring+Full+Stack+Developer;AI%2FML+Enthusiast;Building+Web+%26+Mobile+Applications;Turning+Ideas+Into+Real-World+Solutions" alt="Typing animation"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/bvenkatasrujan">
+<img src="https://img.shields.io/badge/GitHub-bvenkatasrujan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/venkata-srujan-bellamkonda-b009ba327">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:venkatasrujanb@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://srujan-dev-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+**Explore. Build. Innovate. Repeat.** 🚀
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bvenkatasrujan&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+Hi! I'm **Venkata Srujan**, a Computer Science and Engineering student specializing in Artificial Intelligence, passionate about building useful software and exploring intelligent technologies.
+
+- 🎓 Pursuing B.Tech in **CSE – Artificial Intelligence**.
+- 💻 Interested in full-stack web development and application development.
+- 🤖 Exploring AI, machine learning, and practical AI-powered solutions.
+- 📱 Interested in cross-platform mobile development.
+- 🌱 Continuously learning, experimenting, and improving through projects and coding challenges.
+- 🏆 Part of **Team BIOSPARK**, with hackathon achievements.
+- 🎯 **Current goal:** Grow into a full-stack developer with strong AI engineering skills.
+
+I enjoy transforming ideas into practical applications that address real-world problems.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,python,dart,html,css,js,ts" alt="Programming languages"/>
+</p>
+
+### 🌐 Web & Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,flask,fastapi,spring,flutter,tailwind,vite" alt="Web and mobile technologies"/>
+</p>
+
+### 🧠 AI, Machine Learning & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,opencv,sklearn,tensorflow,pytorch" alt="AI and machine learning tools"/>
+</p>
+
+### 🗄️ Databases & Backend Services
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,supabase,postgres" alt="Database and backend tools"/>
+</p>
+
+### ☁️ Cloud, Deployment & Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,vercel,figma,anaconda,vscode,windows" alt="Cloud and developer tools"/>
+</p>
+
+**Additional tools I use or explore:** Google Cloud, Oracle, Render, Streamlit, Matplotlib, MLflow, Canva, Adobe Creative Cloud, and Windows Terminal.
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 Farmora — AgroTech AI
+
+An agriculture-focused project exploring AI-powered crop recommendations, soil-related predictions, climate-responsive insights, and an agricultural marketplace.
+
+**Focus areas**
+- AI-assisted agricultural decision-making
+- Crop and soil insights
+- Farmer and seller connectivity
+
+</td>
+<td width="50%" valign="top">
+
+### 🗺️ NER-RouteGuard AI
+
+An AI-powered smart logistics and accessibility intelligence platform concept focused on route planning and transportation challenges in remote regions.
+
+**Focus areas**
+- Intelligent route planning
+- Road-condition and disruption awareness
+- Emergency logistics and rerouting
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚌 BIOSPARK — TransitIQ
+
+A team project exploring smart transportation workflows and connected application experiences.
+
+**Focus areas**
+- Web and mobile applications
+- Transportation workflow management
+- Real-time status and service integration
+
+</td>
+<td width="50%" valign="top">
+
+### 🗃️ VisionVault
+
+A cross-device file-transfer application concept focused on simplifying file sharing between connected devices.
+
+**Focus areas**
+- Desktop and web experiences
+- Device connectivity
+- Secure file-transfer workflows
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/bvenkatasrujan?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-All%20Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+
+</div>
+
+---
+
+## 🏆 Achievements & Recognition
+
+- 🥇 **SYNAPTIX-2K26** — Winner with Team BIOSPARK.
+- 🥇 **CodeSprint 2K26** — Winner with Team BIOSPARK.
+- 🥈 **NER-RouteGuard AI** — Second place at the institutional internal hackathon.
+- 🌐 **Google Student Ambassador 2026** — Selected among the top 500, as shared in my program updates.
+- 🤖 **Microsoft AI Skills Fest 2026** — Earned an AI learning badge.
+
+I believe every competition is an opportunity to learn, collaborate, and build better solutions.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bvenkatasrujan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvenkatasrujan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages"/>
+
+<br/><br/>
+
+<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=bvenkatasrujan&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bvenkatasrujan&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Animation
+
+<div align="center">
+
+<!-- Enable the GitHub Actions workflow in the profile repository to generate this file. -->
+<img src="https://raw.githubusercontent.com/bvenkatasrujan/bvenkatasrujan/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/venkata-srujan-bellamkonda-b009ba327">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/bvenkatasrujan">
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<a href="https://medium.com/@venkatasrujanb">
+<img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=for-the-badge&logo=medium" alt="Medium"/>
+</a>
+
+<a href="https://www.instagram.com/srujan_bellamkonda/">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="mailto:venkatasrujanb@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+### 💡 “Great things are built one line of code at a time.”
+
+⭐ If you find my work interesting, explore my repositories and follow my journey!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:0F172A&height=120&section=footer" width="100%" alt="Decorative footer"/>
+
+</div>
